@@ -3,7 +3,7 @@
 // @name Tilde Home Paths
 // @description Expand ~/ and ~\ to the current user's Windows profile in Explorer address bar and common filesystem path operations.
 // @version 1.0.0
-// @author ChatGPT
+// @author jebbidan
 // @include explorer.exe
 // @include cmd.exe
 // @include powershell.exe
