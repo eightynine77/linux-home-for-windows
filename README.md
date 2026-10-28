@@ -1,5 +1,5 @@
 # linux home for windows
-this is the linux home directory shortcut path `~/` for windows
+this is a windhawk mod that provides the linux home directory shortcut path `~/` for windows
 
 # how to use
 ### step 1: open windhawk 
